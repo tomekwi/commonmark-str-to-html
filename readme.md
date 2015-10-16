@@ -3,6 +3,8 @@
 
 
 
+![Build status](https://travis-ci.org/tomekwi/render-commonmark.svg)
+
 # render-commonmark
 
 ## install
