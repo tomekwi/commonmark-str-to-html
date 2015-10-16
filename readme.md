@@ -3,7 +3,7 @@
 
 
 
-# commonmark string to html
+# render-commonmark
 
 ## install
 
