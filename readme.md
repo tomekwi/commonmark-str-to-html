@@ -1,3 +1,8 @@
+**Note:** This is a fork of https://github.com/brianleroux/commonmark-str-to-html, the author of which seems unresponsive.
+
+
+
+
 # commonmark string to html
 
 ## install
