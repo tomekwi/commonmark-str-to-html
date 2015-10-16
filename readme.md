@@ -2,11 +2,11 @@
 
 ## install
 
-    npm i commonmark-str-to-html
+    npm i render-commonmark
 
 ### usage
 
-    var toHTML = require('commonmark-str-to-html')
+    var toHTML = require('render-commonmark')
 
     console.log(toHTML('the *quick* brown _fox_'))
 

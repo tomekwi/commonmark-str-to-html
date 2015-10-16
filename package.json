@@ -1,5 +1,5 @@
 {
-  "name": "commonmark-str-to-html",
+  "name": "render-commonmark",
   "version": "1.0.0",
   "description": "",
   "main": "es5.js",
@@ -8,10 +8,13 @@
     "start": "babel es6.js -o es5.js"
   },
   "author": "Brian LeRoux",
+  "contributors": [
+    "Tomek Wiszniewski <t.wiszniewski@gmail.com> (https://github.com/tomekwi)"
+  ],
   "license": "Apache2",
   "repository": {
     "type": "git",
-    "url": "git@github.com:brianleroux/commonmark-str-to-html"
+    "url": "git@github.com:tomekwi/render-commonmark"
   },
   "dependencies": {
     "commonmark": "^0.22.0"
