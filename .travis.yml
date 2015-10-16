@@ -1,0 +1,9 @@
+sudo:   false
+
+branches:
+  only:
+    - master
+    - travis-debug
+
+language:   node_js
+node_js:    stable
